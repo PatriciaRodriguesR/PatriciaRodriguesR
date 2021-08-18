@@ -2,6 +2,7 @@
 ##
 * 🎓 I'm a System Analysis and Development student
 * 📚 Currently learning HTML, CSS and JavaScript
+* ⚡️ Fun-Fact: I have a degree in architecture
 * 🌎 From Rio de Janeiro, Brasil
 
 <div>
